@@ -1,0 +1,6 @@
+{
+    "subscription_id": "put-your-subscription-id-here",
+    "resource_group": "deploy-ml-model-azure-rg",
+    "workspace_name": "sklearnmodel-ws",
+    "region": "eastus"
+}
