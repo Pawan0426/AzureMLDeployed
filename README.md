@@ -2,7 +2,6 @@
 This project demonstrates how to build and deploy a Titanic Survival Prediction model using Logistic Regression in Python. The model is deployed on Azure Container Instances (ACI) using Azure Machine Learning services. The prediction model is trained on the famous Titanic dataset and predicts the likelihood of a passenger's survival based on a set of features.
 
 # Project Structure
-.
 ├── config.json                # Azure configuration file
 ├── logistic_regression_model.pkl # Trained Logistic Regression model
 ├── score.py                   # Scoring/inference script for model deployment
